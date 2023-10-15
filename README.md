@@ -6,3 +6,12 @@ No diretório raiz do projeto execute o comando abaixo:
 ```
 docker-compose up --build
 ```
+Acesse o link
+```
+http://localhost
+```
+
+Funcionamento
+```
+Browser -> Nginx -> App
+```
